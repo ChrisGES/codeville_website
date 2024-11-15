@@ -18,6 +18,11 @@ html {
     --color5: #705546;
 }
 
+h1:hover {
+    color: red;
+    transition: 250ms;
+}
+
 h1, h2, p, a, button {
     font-family: 'Tilt Neon', sans-serif;
 }
