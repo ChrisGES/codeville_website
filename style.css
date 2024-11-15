@@ -24,7 +24,7 @@ h1, h2, p, a, button {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: var(--color4);
+    background-color: green
 }
 
 header {
